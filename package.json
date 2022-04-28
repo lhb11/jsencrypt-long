@@ -1,7 +1,8 @@
 {
-  "name": "jsencrypt-long",
-  "version": "1.0.0",
+  "name": "rsa-jsencrypt-long",
+  "version": "1.0.1",
   "description": "A Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation, Add long string encryption and decryption.",
+  "keywords": ["rsa", "long", "jsencrypt", ""],
   "main": "bin/jsencrypt.js",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -40,10 +41,10 @@
   "homepage": "http://www.travistidwell.com/jsencrypt",
   "repository": {
     "type": "git",
-    "url": "git://github.com/travist/jsencrypt.git"
+    "url": "git://github.com/lhb11/jsencrypt-long.git"
   },
   "bugs": {
-    "url": "http://github.com/travist/jsencrypt/issues"
+    "url": "http://github.com/lhb11/jsencrypt-long/issues"
   },
   "license": "MIT"
 }
