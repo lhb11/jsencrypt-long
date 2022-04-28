@@ -4,6 +4,8 @@ http://travistidwell.com/jsencrypt
 
 Introduction
 ======================
+Support Chinese encryption and decryption of any length
+
 When browsing the internet looking for a good solution to RSA Javascript
 encryption, there is a whole slew of libraries that basically take the fantastic
 work done by Tom Wu @ http://www-cs-students.stanford.edu/~tjw/jsbn/ and then
